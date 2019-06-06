@@ -7,6 +7,6 @@ hello friend, let's learn java:)
 > java
 > gradle
 
-#development server
+# development server
 > `javac app.java`
 
